@@ -1,1 +1,5 @@
-?
+<<<<<<< HEAD
+!
+=======
+Github is great!
+>>>>>>> parent of e3e381e... new text
