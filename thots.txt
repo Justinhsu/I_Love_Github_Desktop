@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Github is greatish
 or is it?
-=======
-Github is great
->>>>>>> parent of 4f2cb2e... updated it
